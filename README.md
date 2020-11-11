@@ -88,9 +88,9 @@ try {
     ```
 ## 显示结果
 ##### 最终结果  
-![](https://github.com/kddai/Java-3/blob/main/photo/%E7%BB%93%E6%9E%9C.JPG)  
+![](https://github.com/kddai/Java-3/blob/main/photo/%E7%BB%93%E6%9E%9C.JPG)   
 ##### 接口异常结果  
-![](https://github.com/kddai/Java-3/blob/main/photo/%E5%BC%82%E7%B1%BB%E7%BB%93%E6%9E%9C.JPG)  
+![](https://github.com/kddai/Java-3/blob/main/photo/%E5%BC%82%E7%B1%BB%E7%BB%93%E6%9E%9C.JPG)    
 ## 实验感想  
 今天做了几个小章节整体的实验。通过研究生的双重身份，继承教师学生实现学费和薪水等功能。还用Scanner交互式输入以及端口异常升华这次实验。  
 由于这周选修课开始了，所有通过周末还有其它琐碎时间完成，虽然听了老师讲的端口异常处理知识，但是落实到实验上还是有点难，不知道从哪里下手。这次实验的try Catch语句是我咨询我们班杨昀昊同学帮助完成的，很感谢杨昀昊同学以后学习中向他想学习，积极进取。    
